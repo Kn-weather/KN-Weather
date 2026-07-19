@@ -2,8 +2,6 @@
 
 Storm Operations dashboard for Allegan, Kalamazoo, and Van Buren Counties in SW Michigan.
 
-**Live site**: https://lykujenkins.github.io/KN-WEATHER/
-
 ## Features
 
 ### Current Conditions Tab
